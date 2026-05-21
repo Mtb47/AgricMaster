@@ -1,0 +1,6 @@
+{
+  "name": "Agric Master",
+  "description": "Farming helper in Ghana connecting farmers with buyers and providing real-time agricultural market prices with an intelligent Gemini-powered farming advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
